@@ -1,0 +1,18 @@
+{
+  "name": "mystique-atom-syntax-light",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Mystique Light Syntax theme for Atom!",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "mystique",
+    "dracula"
+  ],
+  "repository": "https://github.com/tygzy/mystique-atom-syntax-light",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
